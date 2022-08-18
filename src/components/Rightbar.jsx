@@ -126,7 +126,7 @@ const Rightbar = () => {
                     variant="body2"
                     color="text.primary"
                   >
-                    Ali Connors
+                    Jamil Khan
                   </Typography>
                   {" — I'll be in your neighborhood doing errands this…"}
                 </React.Fragment>
